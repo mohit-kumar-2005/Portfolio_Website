@@ -67,6 +67,8 @@ Smart travel companion for planning trips, tracking expenses, discovering destin
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Home Page
 
 ![Home](screenshot/home.png)
@@ -75,6 +77,10 @@ Smart travel companion for planning trips, tracking expenses, discovering destin
 
 ![About](screenshot/about.png)
 
+### Skills Section
+
+![Skills](screenshot/skills.png)
+
 ### Projects Section
 
 ![Projects](screenshot/projects.png)
@@ -82,7 +88,6 @@ Smart travel companion for planning trips, tracking expenses, discovering destin
 ### Certificates Section
 
 ![Certificates](screenshot/certificates.png)
-
 ## 📬 Contact
 
 📧 Email: [mohitkumar7004348@gmail.com](mailto:mohitkumar7004348@gmail.com)
