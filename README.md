@@ -65,29 +65,24 @@ Smart travel companion for planning trips, tracking expenses, discovering destin
 * Database and SQL – Infosys Springboard
 * PU Code Hackathon 3.0 Participation Certificate
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
 ### Home Page
-
-![Home](screenshot/home.png)
+<img src="img/screenshot/home.png" width="100%">
 
 ### About Section
-
-![About](screenshot/about.png)
+<img src="img/screenshot/about.png" width="100%">
 
 ### Skills Section
-
-![Skills](screenshot/skills.png)
+<img src="img/screenshot/skills.png" width="100%">
 
 ### Projects Section
-
-![Projects](screenshot/projects.png)
+<img src="img/screenshot/projects.png" width="100%">
 
 ### Certificates Section
+<img src="img/screenshot/certificates.png" width="100%">
 
-![Certificates](screenshot/certificates.png)
 ## 📬 Contact
 
 📧 Email: [mohitkumar7004348@gmail.com](mailto:mohitkumar7004348@gmail.com)
