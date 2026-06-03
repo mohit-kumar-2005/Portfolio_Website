@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my projects, techn
 
 ## 🌐 Live Website
 
-🔗 https://mohit-kumar-2005.github.io/Portfolio_Website/
+🔗 https://mohit-kumar-portfolio-lime.vercel.app/
 
 ## 👨‍💻 About
 
